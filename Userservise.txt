@@ -2,5 +2,9 @@ Gate the user data ...
 frm the use and store the data properly 
 in exel file prperly 
 
+create an avtar for user 
+
+
+
 i did did soe changes for explanation 
  i will chnge the file forsfully 
